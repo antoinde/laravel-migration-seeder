@@ -17,7 +17,6 @@ class TrainsTableSeeder extends Seeder
         //
 
         for($i=0; $i<50; $i++){
-
             /*
             $table->string('azienda', 50);
             $table->string('stazione_partenza', 50);
